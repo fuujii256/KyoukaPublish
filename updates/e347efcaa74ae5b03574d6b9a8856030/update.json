@@ -2,14 +2,6 @@
   "format": 1,
   "baseId": "e347efcaa74ae5b03574d6b9a8856030",
   "baseLabel": "1.0.0",
-  "generatedAt": "2026-10-01T06:21:17Z",
-  "patches": [
-    {
-      "seq": 1,
-      "label": "1.0.1",
-      "url": "https://github.com/fuujii256/KyoukaPublish/releases/download/base-e347efca/patch_001.pak",
-      "sha256": "7a4b47cb168ccd957da1c0277622c9c83b31a2e01f2c9fe4a1c3255e7fdb35b2",
-      "size": 763
-    }
-  ]
+  "generatedAt": "2026-10-01T06:31:34Z",
+  "patches": []
 }
